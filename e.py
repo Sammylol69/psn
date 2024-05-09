@@ -1,7 +1,5 @@
 from psnawp_api import PSNAWP
 
-## lvgD0cduLkvGFeXUa5BgvuB3NYovnFPm2QwB6JD7sV28C87D4CZowOFVNv1bUShy
-
 psnawp = PSNAWP(input("ID: "))
 
 
